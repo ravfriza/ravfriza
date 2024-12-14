@@ -17,4 +17,4 @@
 | **Documentation**            | ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=Markdown&logoColor=black) ![YAML](https://img.shields.io/badge/-YAML-FFD700?style=flat&logo=YAML&logoColor=black)                                                                                                     |
 
 
-![GitHub Stats](https://camo.githubusercontent.com/ec788d16d714f677ca8e16ae2c2102a20a1270a08eae839bd93da216c44ef9e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravfriza&layout=compact&theme=radical)
