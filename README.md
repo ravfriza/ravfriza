@@ -17,4 +17,4 @@
 | **Documentation**            | ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=Markdown&logoColor=black) ![YAML](https://img.shields.io/badge/-YAML-FFD700?style=flat&logo=YAML&logoColor=black)                                                                                                     |
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravfriza&layout=compact&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravfriza&layout=compact&theme=tokyonight)
