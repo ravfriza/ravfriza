@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&pause=1000&color=F0F4F5&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Daffa+Ravfriza!;Thank+you+for+visiting+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
-
 - 💪 Currently, I'm learning to become a better frontend developer
 - 🤖 Interested in backend development and AI stuff (road to fullstack developer)
 - 🏫 Studied Information Systems at the Universitas Nasional, Indonesia
