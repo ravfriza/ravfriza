@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&pause=1000&color=F0F4F5&vCenter=true&width=435&height=30&lines=%F0%9F%91%8B+Hi%2C+I'm+Daffa+Ravfriza!;Thank+you+for+visiting+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
 
----
+
 - 💪 Currently, I'm learning to become a better frontend developer
 - 🤖 Interested in backend development and AI (road to fullstack developer)
 - 🏫 Studied Information Systems at Universitas Nasional, Indonesia
 - 🧟‍♂️ Easily distracted :(
-
-
 
 | **Category**                  | **Tools**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,5 +15,3 @@
 | **Backend & Server Tools**   | ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-ffffff?style=flat&logo=Deno&logoColor=black) ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=Nginx&logoColor=white)                                                                                                     |
 | **Tools**                    | ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logo=Linux&logoColor=black) ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=white)                                                                                                     |
 | **Documentation**            | ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=Markdown&logoColor=black) ![YAML](https://img.shields.io/badge/-YAML-FFD700?style=flat&logo=YAML&logoColor=black)                                                                                                     |
-
----
